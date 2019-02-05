@@ -13,4 +13,6 @@ your job is to build a web calculator with standard functions.
 - take care of large inputs
 - use `input` fields for display
 - if you're feeling brave, make it accessible offline [PWA](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ "google, we know")
-######gl, hf and happy coding!
+
+
+###### gl, hf and happy coding!
