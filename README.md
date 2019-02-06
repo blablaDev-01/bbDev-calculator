@@ -1,5 +1,5 @@
 ![blablaDev](https://blabladev.com/wp-content/uploads/bbDev-logo-black.png)
-# bbDev-calculator
+# calculator
 
 utterly cool and advanced calculator _(not!!)_
 
