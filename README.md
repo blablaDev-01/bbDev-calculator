@@ -4,9 +4,9 @@
 utterly cool and advanced calculator _(not!!)_
 
 ### coding stack:
-- JavaScript
-- HTML
-- CSS
+- `JavaScript`
+- `HTML`
+- `CSS`
 
 ### requirements:
 - the calculator must be usable on mobile screens
@@ -16,7 +16,7 @@ utterly cool and advanced calculator _(not!!)_
 - take care of large inputs
 - use `input` fields for calculator display
 
-this is a **lvl 2** project, **deadline is 2 weeks**
+this is a **lvl 2** project, the **deadline is 2 weeks**
 
 ###### gl, hf and happy coding! :tada:
 
